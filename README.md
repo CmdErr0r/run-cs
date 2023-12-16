@@ -22,3 +22,5 @@ cd Path/To/Directory/
 cd TemplateName
 dotnet run
 ```
+
+@dev stop
